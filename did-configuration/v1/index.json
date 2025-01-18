@@ -3,8 +3,8 @@
     {
       "@version": 1.1,
       "@protected": true,
-      "LinkedDomains": "https://identity.foundation/.well-known/resources/did-configuration/#LinkedDomains",
-      "DomainLinkageCredential": "https://identity.foundation/.well-known/resources/did-configuration/#DomainLinkageCredential",
+      "LinkedDomains": "https://bsky.social/.well-known/resources/did-configuration/#LinkedDomains",
+      "DomainLinkageCredential": "https://bsky.social/.well-known/resources/did-configuration/#DomainLinkageCredential",
       "origin": "https://identity.foundation/.well-known/resources/did-configuration/#origin",
       "linked_dids": "https://identity.foundation/.well-known/resources/did-configuration/#linked_dids"
     }
